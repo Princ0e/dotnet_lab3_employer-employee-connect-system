@@ -66,7 +66,7 @@ Installation & Setup
 1. Clone the Repository
 bash
 
-git clone [https://github.com/yourusername/employer-employee-connect.git](https://github.com/Princ0e/dotnet_lab3_employer-employee-connect-system)
+git clone [https://github.com/Princ0e/dotnet_lab3_employer-employee-connect-system]
 cd employer-employee-connect
 2. Set Up the Database
 Start XAMPP Control Panel
